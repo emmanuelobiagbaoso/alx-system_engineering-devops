@@ -1,1 +1,1 @@
-software devops
+shell basics
