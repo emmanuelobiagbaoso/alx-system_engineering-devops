@@ -1,4 +1,4 @@
 #!/bin/bash
 
-
+$wc -l 6-firstdirectory
 mkdir /tmp/my_first_directory/
