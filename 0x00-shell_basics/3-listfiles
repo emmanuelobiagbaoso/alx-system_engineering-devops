@@ -1,6 +1,6 @@
 #!/bin/bash
-     ls -l               
      ls -l
+     $ wc -l file
 
 
 
